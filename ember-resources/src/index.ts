@@ -6,6 +6,7 @@ export { Resource } from './-private/resources/simple';
 export { useTask } from './-private/ember-concurrency';
 export { trackedFunction } from './-private/tracked-function';
 export { use } from './-private/use';
+export { useFetch } from './-private/use-fetch';
 export { useFunction } from './-private/use-function';
 export { useHelper } from './-private/use-helper';
 export { useResource } from './-private/use-resource';
